@@ -1,0 +1,64 @@
+{
+    "products":[
+
+        {
+            "id":1,
+            "name":"poco",
+            "price":23000,
+            "image":"https://rukminim1.flixcart.com/image/300/300/l2p23rk0/mobile/x/b/y/-original-imagdznhnzmzfbwx.jpeg?q=90"
+
+        },
+        {
+            "id":2,
+            "name":"samsung f33",
+            "price":18000,
+            "image":"https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/a/p/r/-original-imagkgrxwg386pjk.jpeg?q=90"
+
+        },
+        {
+            "id":3,
+            "name":"poco m1",
+            "price":33000,
+            "image":"https://rukminim1.flixcart.com/image/300/300/l2p23rk0/mobile/x/b/y/-original-imagdznhnzmzfbwx.jpeg?q=90"
+
+        },
+        {
+            "id":4,
+            "name":"oppo X1",
+            "price":20000,
+            "image":"https://rukminim1.flixcart.com/image/300/300/l2jcccw0/mobile/i/p/o/-original-imagdu8j9vxscfdh.jpeg?q=90"
+        },
+        {
+            "id":5,
+            "name":"samsung M13",
+            "price":32000,
+            "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/q/q/-original-imaggcz6fyt9yayh.jpeg?q=70"
+
+        },
+        {
+            "id":6,
+            "name":"iPHONE 11",
+            "price":44000,
+            "image":"https://rukminim1.flixcart.com/image/300/300/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=90"
+
+        },
+        {
+            "id":7,
+            "name":"IPHONE 12",
+            "price":48000,
+            "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/i/h/c/-original-imaghxemmqyahnuj.jpeg?q=70"
+
+        },
+        {
+            "id":8,
+            "name":"IPHONE 13",
+            "price":60000,
+            "image":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/y/l/p/-original-imaghxemc3wtcuhb.jpeg?q=70"
+
+        }
+
+        
+
+
+    ]
+}
